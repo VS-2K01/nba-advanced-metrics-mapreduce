@@ -1,0 +1,15 @@
+# Large source data (not committed — see README for where to get it)
+data/games_details.csv
+data/ranking.csv
+data/games.csv
+data/players.csv
+*.zip
+
+# Java build artifacts
+*.class
+*.jar
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
